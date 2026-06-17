@@ -11,8 +11,5 @@ Abacus • ☄️ || Heng • ☄️ || Yi • ☄️ <br/>
 Ant-Tenna • ⭐ || Koro-Sensei • 🌙 || 
 <h4> Frequently used dante skins:</h4>
 
-<img src="pony-town-Dante • 💥-stand-16x.png" alt="Dant1" width="128"> <br/>
-<img src="pony-town-TickTock [V1] • 📌 (Sign Ata!)-stand-16x.png" alt="Dant2" width="128">
-<img src="pony-town-TickTock [V2] • 📌 (Sign Ata!)-stand-16x.png" alt="Dant3" width="128">
-
+<img src="" alt="Dante" width="200"> <br/>
 
