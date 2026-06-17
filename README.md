@@ -11,5 +11,5 @@ Abacus • ☄️ || Heng • ☄️ || Yi • ☄️ <br/>
 Ant-Tenna • ⭐ || Koro-Sensei • 🌙 || 
 <h4> Frequently used dante skins:</h4>
 
-<img src="" alt="Dante" width="200"> <br/>
+<img src="Untitled167_20260617210113.png" alt="Dante" width="550"> <br/>
 
